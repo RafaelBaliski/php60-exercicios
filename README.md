@@ -1,6 +1,9 @@
 # php60-exercicios
 
 /******************************************************************************
+
+
+
 Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
 Disciplina: Linguagem e Técnicas de Programação
 Professor: Flores
